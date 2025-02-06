@@ -1,3 +1,5 @@
+// Within an 80 inch (200cm) square, 10,000 straight lines. Next to it is an 80 inch (200 cm) square with 10,000 not straight lines.
+
 void setup() {
   size(1620, 820);
   background(255);
