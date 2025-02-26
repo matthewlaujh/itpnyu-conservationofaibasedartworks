@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+timm
+torch
+torchaudio
+torchvision
+transformers
+matplotlib
+Pillow
